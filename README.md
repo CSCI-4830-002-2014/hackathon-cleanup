@@ -13,7 +13,7 @@
 
 ## PayPlan
 
-![screenshot of the cleaned up PayPlan column](image.png?raw=true) 
+![screenshot of the cleaned up PayPlan column](http://i.imgur.com/QyPFgk1.png?1) 
 
 ## Data Visualization
 
