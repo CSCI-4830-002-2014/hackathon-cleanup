@@ -23,4 +23,4 @@
 
 {{a short write up of your team's analysis}}
 
-![an image as the supporting evidence](image.png?raw=true)
+![an image as the supporting evidence](https://www.dropbox.com/s/n4ob2d7kvmjp5vh/Screenshot%202014-09-22%2019.26.05.png?dl=1)
