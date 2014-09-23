@@ -14,7 +14,7 @@
 
 ## PayPlan
 
-![screenshot of the cleaned up PayPlan column](factPayPlan.png?raw=true) 
+![screenshot of the cleaned up PayPlan column](facetPayPlan.png?raw=true) 
 
 ## Data Visualization
 
