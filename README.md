@@ -22,6 +22,6 @@
 
 # Objective 2. Clean up the Muscian Dataset
 
-{{a short write up of your team's analysis}}
+{{We can see here 27 is a small size compared to other ages at which celebrities have died.}}
 
-![an image as the supporting evidence](image.png?raw=true) 
+![an image as the supporting evidence](27.png?raw=true) 
