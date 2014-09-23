@@ -10,11 +10,11 @@
 
 ## AppointmentTerm 
 
-![screenshot of the cleaned up AppointmentTerm column](image.png?raw=true) 
+![screenshot of the cleaned up AppointmentTerm column](facetAppointmentTerm.png?raw=true) 
 
 ## PayPlan
 
-![screenshot of the cleaned up PayPlan column](image.png?raw=true) 
+![screenshot of the cleaned up PayPlan column](factPayPlan.png?raw=true) 
 
 ## Data Visualization
 
