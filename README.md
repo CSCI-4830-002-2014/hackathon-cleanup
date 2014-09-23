@@ -18,7 +18,7 @@
 
 ## Data Visualization
 
-![an image of the visualization about this dataset](image.png?raw=true) 
+![an image of the visualization about this dataset](dataviz.png?raw=true) 
 
 # Objective 2. Clean up the Muscian Dataset
 
