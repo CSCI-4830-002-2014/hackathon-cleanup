@@ -9,7 +9,7 @@
 
 ## AppointmentTerm 
 
-![screenshot of the cleaned up AppointmentTerm column](image.png?raw=true) 
+![screenshot of the cleaned up AppointmentTerm column](http://i.imgur.com/8nG7J4M.png?1)
 
 ## PayPlan
 
