@@ -21,6 +21,6 @@
 
 # Objective 2. Clean up the Muscian Dataset
 
-{{a short write up of your team's analysis}}
+The 27 Club is indeed real, and we found that roughly 90 people fall under this category. The most popular death age turned out to be 63.
 
 ![an image as the supporting evidence](https://www.dropbox.com/s/n4ob2d7kvmjp5vh/Screenshot%202014-09-22%2019.26.05.png?dl=1)
