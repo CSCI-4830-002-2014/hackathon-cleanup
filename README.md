@@ -21,6 +21,6 @@
 
 # Objective 2. Clean up the Muscian Dataset
 
-{{a short write up of your team's analysis}}
+The "27 club" is not real because our analysis indicates that it is much more common for musicians to die at the age of 26.
 
 ![an image as the supporting evidence](image.png?raw=true) 
