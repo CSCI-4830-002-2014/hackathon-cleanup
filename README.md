@@ -9,15 +9,15 @@
 
 ## AppointmentTerm 
 
-![screenshot of the cleaned up AppointmentTerm column](image.png?raw=true) 
+![screenshot of the cleaned up AppointmentTerm column](http://imgur.com/Z1yzQhE.png) 
 
 ## PayPlan
 
-![screenshot of the cleaned up PayPlan column](image.png?raw=true) 
+![screenshot of the cleaned up PayPlan column](http://imgur.com/r1B9u4x.png) 
 
 ## Data Visualization
 
-![an image of the visualization about this dataset](image.png?raw=true) 
+![an image of the visualization about this dataset](http://imgur.com/zcBYIWM.png) 
 
 # Objective 2. Clean up the Muscian Dataset
 
