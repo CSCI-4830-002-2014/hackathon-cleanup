@@ -17,10 +17,10 @@
 
 ## Data Visualization
 
-![an image of the visualization about this dataset](image.png?raw=true) 
+![an image of the visualization about this dataset](http://i.imgur.com/1fGVNYH.png?1) 
 
 # Objective 2. Clean up the Muscian Dataset
 
 The "27 club" is not real because our analysis indicates that it is much more common for musicians to die at the age of 26.
 
-![an image as the supporting evidence](image.png?raw=true) 
+![an image as the supporting evidence](http://i.imgur.com/JqxK4e8.png?1)
