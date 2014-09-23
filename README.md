@@ -14,7 +14,7 @@
 
 ## PayPlan
 
-![screenshot of the cleaned up PayPlan column](Obj1PayPlan.png) 
+![screenshot of the cleaned up PayPlan column](Obj1PayPlan.PNG) 
 
 ## Data Visualization
 
