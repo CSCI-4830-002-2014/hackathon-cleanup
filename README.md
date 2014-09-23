@@ -1,10 +1,9 @@
 # Team Members
 
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
+* [Peyman Mortazavi](https://github.com/peymanmortazavi)
+* [Brian Newsom](https://github.com/briannewsom)
+* [Dawson Botsford](https://github.com/dawsonbotsford)
+* [Adrian Chen](https://github.com/adrian-chen)
 
 # Objective 1. Clean up the Federal Advisory Committee Dataset
 
