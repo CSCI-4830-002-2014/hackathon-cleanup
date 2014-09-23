@@ -1,10 +1,9 @@
 # Team Members
 
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
+* [Alexia Newgord](https://github.com/alne4294)
+* [Michael Aaron](https://github.com/develra)
+* [Alex Tsankov](https://github.com/antsankov)
+
 
 # Objective 1. Clean up the Federal Advisory Committee Dataset
 
